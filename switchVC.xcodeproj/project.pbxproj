@@ -14,6 +14,7 @@
 		04B730B21EAF6DBB006E1444 /* UIView+ZJExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 04B730B11EAF6DBB006E1444 /* UIView+ZJExtension.m */; };
 		04F630371EAF704500B8B327 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04F630361EAF704500B8B327 /* LaunchScreen.storyboard */; };
 		04F630391EAF704A00B8B327 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04F630381EAF704A00B8B327 /* Main.storyboard */; };
+		04F6303B1EAF727900B8B327 /* switchVC.gif in Resources */ = {isa = PBXBuildFile; fileRef = 04F6303A1EAF727900B8B327 /* switchVC.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		04B730B11EAF6DBB006E1444 /* UIView+ZJExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+ZJExtension.m"; sourceTree = "<group>"; };
 		04F630361EAF704500B8B327 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 		04F630381EAF704A00B8B327 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		04F6303A1EAF727900B8B327 /* switchVC.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = switchVC.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				04F630381EAF704A00B8B327 /* Main.storyboard */,
 				04F630361EAF704500B8B327 /* LaunchScreen.storyboard */,
 				04B7309C1EAF6CC7006E1444 /* AppDelegate.h */,
+				04F6303A1EAF727900B8B327 /* switchVC.gif */,
 				04B7309D1EAF6CC7006E1444 /* AppDelegate.m */,
 				04B7309F1EAF6CC7006E1444 /* ViewController.h */,
 				04B730A01EAF6CC7006E1444 /* ViewController.m */,
@@ -144,6 +147,7 @@
 				04F630391EAF704A00B8B327 /* Main.storyboard in Resources */,
 				04F630371EAF704500B8B327 /* LaunchScreen.storyboard in Resources */,
 				04B730A61EAF6CC7006E1444 /* Assets.xcassets in Resources */,
+				04F6303B1EAF727900B8B327 /* switchVC.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
